@@ -1,0 +1,101 @@
+Customer ID,Full Name,Email,Phone,City,Age,Gender,Signup Date,Total Purchase Amount
+CUST0001,Sneha Chopra,sneha.chopra001@example.com,+91-00000-00001,Pune,55,Male,2025-11-12,90639.16
+CUST0002,Aditi Pillai,aditi.pillai002@example.com,+91-00000-00002,Jaipur,18,Prefer not to say,2025-01-12,17958.95
+CUST0003,Diya Kapoor,diya.kapoor003@example.com,+91-00000-00003,Pune,55,Female,2026-08-22,27251.35
+CUST0004,Arjun Das,arjun.das004@example.com,+91-00000-00004,Kolkata,31,Prefer not to say,2024-04-14,44266.98
+CUST0005,Advait Kapoor,advait.kapoor005@example.com,+91-00000-00005,Pune,61,Female,2026-09-13,115778.96
+CUST0006,Arjun Pillai,arjun.pillai006@example.com,+91-00000-00006,Visakhapatnam,40,Male,2022-04-26,81879.89
+CUST0007,Akash Mehta,akash.mehta007@example.com,+91-00000-00007,Chennai,69,Male,2026-05-10,92242.89
+CUST0008,Zoya Joshi,zoya.joshi008@example.com,+91-00000-00008,Surat,37,Non-binary,2023-04-30,36619.15
+CUST0009,Pooja Joshi,pooja.joshi009@example.com,+91-00000-00009,Kochi,49,Prefer not to say,2023-04-21,41695.79
+CUST0010,Nisha Shah,nisha.shah010@example.com,+91-00000-00010,Chandigarh,50,Non-binary,2022-05-22,112158.49
+CUST0011,Dev Mehta,dev.mehta011@example.com,+91-00000-00011,Mumbai,69,Non-binary,2022-04-21,78485.25
+CUST0012,Ananya Malhotra,ananya.malhotra012@example.com,+91-00000-00012,Lucknow,18,Female,2023-12-22,17077.45
+CUST0013,Ishaan Verma,ishaan.verma013@example.com,+91-00000-00013,Kochi,73,Prefer not to say,2026-01-25,104456.66
+CUST0014,Priya Nair,priya.nair014@example.com,+91-00000-00014,Ahmedabad,40,Male,2026-09-01,77457.22
+CUST0015,Aarav Kulkarni,aarav.kulkarni015@example.com,+91-00000-00015,Nagpur,65,Prefer not to say,2026-06-13,19532.46
+CUST0016,Aisha Gupta,aisha.gupta016@example.com,+91-00000-00016,Pune,60,Female,2025-04-24,4956.71
+CUST0017,Priya Khan,priya.khan017@example.com,+91-00000-00017,Nagpur,31,Non-binary,2023-01-22,74848.02
+CUST0018,Dev Mishra,dev.mishra018@example.com,+91-00000-00018,Nagpur,35,Prefer not to say,2023-07-29,94270.21
+CUST0019,Karan Nair,karan.nair019@example.com,+91-00000-00019,Nagpur,33,Male,2022-09-28,102299.23
+CUST0020,Simran Shah,simran.shah020@example.com,+91-00000-00020,Chandigarh,73,Female,2023-03-27,39727.31
+CUST0021,Dev Verma,dev.verma021@example.com,+91-00000-00021,Hyderabad,31,Female,2022-07-17,37401.03
+CUST0022,Ishaan Das,ishaan.das022@example.com,+91-00000-00022,Mumbai,69,Female,2026-01-02,25590.30
+CUST0023,Aisha Shah,aisha.shah023@example.com,+91-00000-00023,Hyderabad,55,Prefer not to say,2023-06-21,83264.73
+CUST0024,Reyansh Das,reyansh.das024@example.com,+91-00000-00024,Kolkata,61,Male,2025-04-06,37442.79
+CUST0025,Advait Joshi,advait.joshi025@example.com,+91-00000-00025,Vadodara,61,Prefer not to say,2025-01-29,110699.71
+CUST0026,Vivaan Iyer,vivaan.iyer026@example.com,+91-00000-00026,Mumbai,40,Prefer not to say,2022-01-11,80063.42
+CUST0027,Kabir Das,kabir.das027@example.com,+91-00000-00027,Chennai,47,Non-binary,2022-12-30,92399.68
+CUST0028,Simran Patel,simran.patel028@example.com,+91-00000-00028,Hyderabad,50,Female,2024-08-28,63219.05
+CUST0029,Meera Verma,meera.verma029@example.com,+91-00000-00029,Coimbatore,19,Prefer not to say,2026-05-17,43791.00
+CUST0030,Vivaan Malhotra,vivaan.malhotra030@example.com,+91-00000-00030,Delhi,49,Female,2023-11-23,34182.07
+CUST0031,Kavya Mishra,kavya.mishra031@example.com,+91-00000-00031,Kolkata,24,Male,2022-06-19,96769.41
+CUST0032,Advait Verma,advait.verma032@example.com,+91-00000-00032,Nagpur,54,Female,2024-03-13,48778.50
+CUST0033,Aisha Patel,aisha.patel033@example.com,+91-00000-00033,Hyderabad,30,Non-binary,2024-01-12,65256.43
+CUST0034,Meera Desai,meera.desai034@example.com,+91-00000-00034,Bengaluru,40,Prefer not to say,2024-08-15,92388.10
+CUST0035,Pooja Singh,pooja.singh035@example.com,+91-00000-00035,Visakhapatnam,57,Female,2025-01-19,83102.41
+CUST0036,Simran Chopra,simran.chopra036@example.com,+91-00000-00036,Indore,38,Prefer not to say,2025-04-02,20610.14
+CUST0037,Simran Bose,simran.bose037@example.com,+91-00000-00037,Kolkata,67,Prefer not to say,2026-04-22,41510.92
+CUST0038,Kavya Mehta,kavya.mehta038@example.com,+91-00000-00038,Chandigarh,39,Female,2025-12-05,67061.50
+CUST0039,Saanvi Gupta,saanvi.gupta039@example.com,+91-00000-00039,Ahmedabad,27,Prefer not to say,2023-06-14,34008.01
+CUST0040,Nisha Rao,nisha.rao040@example.com,+91-00000-00040,Mumbai,40,Male,2025-02-04,107643.84
+CUST0041,Ira Joshi,ira.joshi041@example.com,+91-00000-00041,Nagpur,68,Female,2025-02-26,50151.59
+CUST0042,Dev Gupta,dev.gupta042@example.com,+91-00000-00042,Ahmedabad,60,Female,2025-04-10,101345.75
+CUST0043,Neha Shah,neha.shah043@example.com,+91-00000-00043,Surat,74,Female,2025-12-26,71492.89
+CUST0044,Tara Pillai,tara.pillai044@example.com,+91-00000-00044,Lucknow,35,Prefer not to say,2023-05-19,35517.05
+CUST0045,Aisha Saxena,aisha.saxena045@example.com,+91-00000-00045,Kolkata,41,Female,2024-08-13,88113.04
+CUST0046,Ishaan Gupta,ishaan.gupta046@example.com,+91-00000-00046,Vadodara,73,Non-binary,2022-09-09,82439.34
+CUST0047,Aarav Gupta,aarav.gupta047@example.com,+91-00000-00047,Ahmedabad,35,Prefer not to say,2026-02-28,72968.64
+CUST0048,Aisha Desai,aisha.desai048@example.com,+91-00000-00048,Bhopal,52,Female,2023-04-01,20681.17
+CUST0049,Saanvi Bose,saanvi.bose049@example.com,+91-00000-00049,Delhi,20,Prefer not to say,2024-09-20,21978.40
+CUST0050,Rohan Gupta,rohan.gupta050@example.com,+91-00000-00050,Chandigarh,26,Male,2022-11-26,96246.86
+CUST0051,Arjun Nair,arjun.nair051@example.com,+91-00000-00051,Coimbatore,58,Male,2023-12-04,36384.19
+CUST0052,Dev Saxena,dev.saxena052@example.com,+91-00000-00052,Mumbai,71,Male,2022-09-21,48549.89
+CUST0053,Advait Gupta,advait.gupta053@example.com,+91-00000-00053,Coimbatore,47,Non-binary,2026-10-04,22251.39
+CUST0054,Reyansh Desai,reyansh.desai054@example.com,+91-00000-00054,Kochi,45,Male,2026-07-29,99650.60
+CUST0055,Aisha Sharma,aisha.sharma055@example.com,+91-00000-00055,Hyderabad,28,Male,2022-05-05,119005.12
+CUST0056,Reyansh Pillai,reyansh.pillai056@example.com,+91-00000-00056,Mumbai,27,Male,2025-12-30,41744.44
+CUST0057,Sneha Jain,sneha.jain057@example.com,+91-00000-00057,Ahmedabad,31,Prefer not to say,2022-12-26,108452.89
+CUST0058,Neha Chopra,neha.chopra058@example.com,+91-00000-00058,Kochi,48,Prefer not to say,2022-07-26,8528.95
+CUST0059,Saanvi Mehta,saanvi.mehta059@example.com,+91-00000-00059,Surat,24,Prefer not to say,2026-03-08,47795.69
+CUST0060,Dev Nair,dev.nair060@example.com,+91-00000-00060,Mumbai,28,Prefer not to say,2022-08-02,65183.79
+CUST0061,Simran Reddy,simran.reddy061@example.com,+91-00000-00061,Chandigarh,70,Prefer not to say,2024-09-03,22402.86
+CUST0062,Tara Chopra,tara.chopra062@example.com,+91-00000-00062,Surat,58,Non-binary,2026-06-12,100044.45
+CUST0063,Kabir Desai,kabir.desai063@example.com,+91-00000-00063,Visakhapatnam,74,Prefer not to say,2026-06-15,19647.52
+CUST0064,Om Desai,om.desai064@example.com,+91-00000-00064,Mumbai,45,Non-binary,2025-04-24,4639.36
+CUST0065,Kabir Verma,kabir.verma065@example.com,+91-00000-00065,Pune,40,Female,2023-09-26,60092.28
+CUST0066,Reyansh Patel,reyansh.patel066@example.com,+91-00000-00066,Mumbai,29,Prefer not to say,2026-06-01,114929.77
+CUST0067,Ishaan Chopra,ishaan.chopra067@example.com,+91-00000-00067,Nagpur,51,Female,2024-09-07,38577.65
+CUST0068,Meera Shah,meera.shah068@example.com,+91-00000-00068,Vadodara,74,Male,2023-10-28,90821.08
+CUST0069,Aisha Das,aisha.das069@example.com,+91-00000-00069,Kochi,56,Male,2024-01-24,30042.68
+CUST0070,Advait Bose,advait.bose070@example.com,+91-00000-00070,Nashik,35,Non-binary,2024-02-07,80771.67
+CUST0071,Ira Iyer,ira.iyer071@example.com,+91-00000-00071,Surat,52,Prefer not to say,2023-12-13,24657.25
+CUST0072,Om Mehta,om.mehta072@example.com,+91-00000-00072,Visakhapatnam,74,Prefer not to say,2024-10-26,11422.05
+CUST0073,Neha Reddy,neha.reddy073@example.com,+91-00000-00073,Lucknow,72,Prefer not to say,2022-12-15,118153.30
+CUST0074,Ananya Desai,ananya.desai074@example.com,+91-00000-00074,Pune,75,Male,2026-05-06,66905.69
+CUST0075,Vivaan Patel,vivaan.patel075@example.com,+91-00000-00075,Chandigarh,52,Non-binary,2025-06-28,64047.24
+CUST0076,Reyansh Nair,reyansh.nair076@example.com,+91-00000-00076,Bhopal,24,Non-binary,2022-10-24,120903.45
+CUST0077,Ananya Patel,ananya.patel077@example.com,+91-00000-00077,Pune,48,Female,2023-05-11,117104.54
+CUST0078,Aarav Jain,aarav.jain078@example.com,+91-00000-00078,Chennai,19,Female,2024-01-28,117970.57
+CUST0079,Karan Gupta,karan.gupta079@example.com,+91-00000-00079,Nashik,48,Male,2023-10-22,120780.95
+CUST0080,Aditi Jain,aditi.jain080@example.com,+91-00000-00080,Indore,45,Male,2024-10-21,106214.04
+CUST0081,Rahul Das,rahul.das081@example.com,+91-00000-00081,Hyderabad,63,Female,2022-08-23,88832.57
+CUST0082,Reyansh Chopra,reyansh.chopra082@example.com,+91-00000-00082,Vadodara,56,Female,2025-11-30,119029.28
+CUST0083,Dev Pillai,dev.pillai083@example.com,+91-00000-00083,Kochi,18,Prefer not to say,2025-05-07,97106.09
+CUST0084,Advait Desai,advait.desai084@example.com,+91-00000-00084,Chandigarh,32,Non-binary,2026-02-08,72711.64
+CUST0085,Aditi Saxena,aditi.saxena085@example.com,+91-00000-00085,Vadodara,73,Female,2022-12-27,121498.11
+CUST0086,Zoya Mishra,zoya.mishra086@example.com,+91-00000-00086,Surat,51,Female,2024-03-25,74713.93
+CUST0087,Ananya Kulkarni,ananya.kulkarni087@example.com,+91-00000-00087,Bengaluru,31,Prefer not to say,2022-11-18,56094.69
+CUST0088,Rohan Das,rohan.das088@example.com,+91-00000-00088,Vadodara,51,Female,2023-10-25,82414.21
+CUST0089,Akash Malhotra,akash.malhotra089@example.com,+91-00000-00089,Mumbai,42,Non-binary,2022-08-29,30402.01
+CUST0090,Yash Rao,yash.rao090@example.com,+91-00000-00090,Vadodara,63,Male,2025-08-01,20166.87
+CUST0091,Ira Reddy,ira.reddy091@example.com,+91-00000-00091,Bengaluru,42,Prefer not to say,2026-04-12,94900.02
+CUST0092,Saanvi Nair,saanvi.nair092@example.com,+91-00000-00092,Chennai,22,Non-binary,2022-10-21,73316.02
+CUST0093,Rahul Kapoor,rahul.kapoor093@example.com,+91-00000-00093,Delhi,58,Male,2024-04-04,120510.26
+CUST0094,Rohan Sharma,rohan.sharma094@example.com,+91-00000-00094,Mumbai,28,Prefer not to say,2026-09-01,5771.68
+CUST0095,Nisha Khan,nisha.khan095@example.com,+91-00000-00095,Hyderabad,45,Non-binary,2024-06-29,89396.24
+CUST0096,Saanvi Mishra,saanvi.mishra096@example.com,+91-00000-00096,Nashik,37,Prefer not to say,2022-10-23,11341.70
+CUST0097,Ishaan Mehta,ishaan.mehta097@example.com,+91-00000-00097,Nashik,62,Non-binary,2022-06-09,72248.12
+CUST0098,Karan Reddy,karan.reddy098@example.com,+91-00000-00098,Bhopal,71,Prefer not to say,2024-02-25,91644.11
+CUST0099,Zoya Reddy,zoya.reddy099@example.com,+91-00000-00099,Delhi,22,Non-binary,2025-12-25,53877.10
+CUST0100,Dev Rao,dev.rao100@example.com,+91-00000-00100,Delhi,59,Prefer not to say,2023-10-22,12654.26
